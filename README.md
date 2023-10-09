@@ -6,7 +6,7 @@
 
 运营时间: 2020.2 至今
 
-服务器版本：1.20（Planet）；1.19 （Creative Land II）
+服务器版本（二级版本）：1.20（Planet）；1.19 （Creative Land II）
 
 !> 重要：自 1.17 起，Mojang 对游戏所需的最低 Java 版本进行了调整，具体为 1.17 -> Java 16, 1.18 -> Java 17。我们推荐使用服务器所支持的最新版本（现为 1.20）登录服务器。
 
@@ -16,19 +16,16 @@ Discord: [邀请链接](https://discord.gg/hDNMZv5)
 
 ### 服务器地址
 
-自动分配
 
 ?> mc.usolia.net
 
-中国大陆加速（国内运营商线路 | 无稳定性保证）
+#### 特殊地址
+
+中国大陆加速地址（无稳定性保证）
 
 ?> de-centre-1.mc.usolia.net
 
 ?> de-centre-2.mc.usolia.net
-
-国际线路（国际运营商线路 | 99.9% SLA）
-
-?> global.mc.usolia.net
 
 ### 其他
 
