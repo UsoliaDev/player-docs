@@ -58,7 +58,7 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 
 论坛则可以让这些内容得到充分的展示和讨论，同时服务器的各种新闻公告也会第一时间在这里发布。
 
-你还可以在这里发布你自己举办的活动哦 [>>](https://usolia.net/forums/%E7%A4%BE%E5%8C%BA%E6%B4%BB%E5%8A%A8.12/)？
+你还可以在这里发布你自己举办的活动哦 [>>](https://usolia.net/forums/%E7%A4%BE%E5%8C%BA%E6%B4%BB%E5%8A%A8.12/)
 
 ### 逐渐深入
 
