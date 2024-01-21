@@ -9,7 +9,7 @@
 ## 等级奖励一览
 
 
-![server_levels.jpg (1920×1080) (usolia.net)](https://usolia.net/img/docs/server_levels.jpg)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/general/server_levels.jpg)
 
 
 ## 如何升级

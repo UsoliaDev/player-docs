@@ -8,7 +8,7 @@
 
 -----------
 
-![slimechunk.png (1920×992) (usolia.net)](https://usolia.net/img/docs/cl02/slimechunk-view/slimechunk.png)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/cl02/slimechunk-view/slimechunk.png)
 
 你可以使用以下任意方法之一查看史莱姆区块：
 

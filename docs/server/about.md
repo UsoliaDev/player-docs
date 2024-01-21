@@ -2,7 +2,7 @@
 
 *本文最后更新于 2023.4.14*
 
-![usolia-banner.png (1440×360)](https://usolia.net/img/usolia-banner.png)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/general/usolia-banner.png)
 
 Hi，我们是 Usolia Network（前身为 Coldplay Network）
 
@@ -13,7 +13,7 @@ Hi，我们是 Usolia Network（前身为 Coldplay Network）
 
 ### *可持续性的运营策略 / 温暖和谐的玩家社区 / 独具一格的游戏玩法*
 
-![图片加载中](https://docs.usolia.net/img/2023-new-year-eve.png)
+![图片加载中](https://assets-docs.usolia.net/docs.usolia.net/images/general/2023-new-year-eve.png)
 
 > 摄于 2023 元旦的新年活动，当晚共有20人参与其中。
 

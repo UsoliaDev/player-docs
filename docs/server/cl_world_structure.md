@@ -6,7 +6,7 @@
 
 ## 架构图
 
-![loading](https://docs.usolia.net/img/CLworld.png)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/general/CLworld.png)
 
 ----------
 

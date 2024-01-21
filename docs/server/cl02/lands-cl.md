@@ -27,7 +27,7 @@
 
  1. 创建
 输入指令`/lands create <名称>`即可。该指令将自动将你所在的区块划入你的领地当中
-![这里应该有一张图片，不过还没加载出来](https://docs.usolia.net/img/lands-1.png)
+![这里应该有一张图片，不过还没加载出来](https://assets-docs.usolia.net/docs.usolia.net/images/general/lands-1.png)
  2. 扩展
    三种方法：
 - 直接使用`/lands claim`将你所在的区块划入你的领地内

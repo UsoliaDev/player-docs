@@ -5,7 +5,7 @@
 *本文最后更新于 2023.12.10*
 
 ----
-![seasons-banner.png (1920×991) (usolia.net)](https://usolia.net/img/docs/pl01/seasons/seasons-banner.png)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/pl01/seasons/seasons-banner.png)
 
 现在，你也可以在 Planet 服务器中体验季节的变化，就像在现实中一样。
 

@@ -9,7 +9,7 @@
 ### 创建商店
 
 要创建一个箱子商店十分简单，只需要在你需要的位置放置一个箱子，并使用需要出售的物品左键点击它，按照屏幕提示输入价格后即可。如图所示：
-![enter description here](https://usolia.net/img/docs/cl02/chest-store/chest-store-1.png)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/cl02/chest-store/chest-store-1.png)
 
 
 
@@ -21,7 +21,7 @@
 
 作为商店拥有者，你可以右键点击你的商店查看设置页面，如下图：
 
-![enter description here](https://usolia.net/img/docs/cl02/chest-store/chest-store-2.png)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/cl02/chest-store/chest-store-2.png)
 
 对于其中部分概念的解释：
 

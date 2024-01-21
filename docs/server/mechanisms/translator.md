@@ -47,7 +47,7 @@
 
 你可以点击以将翻译后的文本粘贴到聊天栏，如下图所示：
 
-![translator-1](https://usolia.net/img/docs/mechanisms/translator-1.png)
+![translator-1](https://assets-docs.usolia.net/docs.usolia.net/images/mechanisms/translator-1.png)
 
 ## 使用建议
 
