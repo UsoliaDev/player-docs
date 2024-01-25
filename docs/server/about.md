@@ -1,21 +1,21 @@
 # 关于我们
 
-*本文最后更新于 2023.4.14*
+*本文最后更新于 2024.1.25*
 
 ![](https://assets-docs.usolia.net/docs.usolia.net/images/general/usolia-banner.png)
 
 Hi，我们是 Usolia Network（前身为 Coldplay Network）
 
-自 2020.2，Java 版服务器首次开启之时起，我们已有累计 1800+ 玩家注册量，且在已逾三年的运营中无中断记录。
+自 2020.2，Java 版服务器首次开启之时起，我们已有累计 1800+ 玩家注册量，且在近4年的运营中无中断记录。
 
 ----------
 
 
 ### *可持续性的运营策略 / 温暖和谐的玩家社区 / 独具一格的游戏玩法*
 
-![图片加载中](https://assets-docs.usolia.net/docs.usolia.net/images/general/2023-new-year-eve.png)
+![图片加载中](https://assets-docs.usolia.net/docs.usolia.net/images/general/2024-new-year-eve.png)
 
-> 摄于 2023 元旦的新年活动，当晚共有20人参与其中。
+> 摄于 2024 新年夜
 
 我们最初也都是像你一样的玩家 —— 希望能拥有一个稳定且温馨的游戏环境。
 
