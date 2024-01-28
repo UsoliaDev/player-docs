@@ -2,14 +2,14 @@
 
 *服务器目前共有128个等级，更高等级可以获得更多的权限与奖励。*
 
-*本文最后更新于 2023.4.4*
+*本文最后更新于 2024.1.28*
 
 ----------
 
 ## 等级奖励一览
 
 
-![](https://assets-docs.usolia.net/docs.usolia.net/images/general/server_levels.jpg)
+![](https://assets-docs.usolia.net/docs.usolia.net/images/mechanisms/levels.png)
 
 
 ## 如何升级
