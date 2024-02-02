@@ -18,7 +18,7 @@
 
 ## 权限表
 
-?> "○"代表不具有该权限或提升；"●"代表具有该权限或提升；数字代表该权限或提升的具体值。
+?> "○"代表不具有该权限，或会员等级对其无影响；"●"代表具有该权限或提升；数字代表该权限或提升的具体值。
 
 
 |  | 普通玩家 | <font color=55FFFF>PREMIUM</font> | <font color=55FFFF>PREMIUM</font><font color=55FF55>+</font> | <font color=FFAA00>ULTIMATE</font> | <font color=FFAA00>ULTIMATE</font><font color=3F1515>+</font> | <font color=FFAA00>ULTIMATE</font><font color=3F1515>++</font> |
