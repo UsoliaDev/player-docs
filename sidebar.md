@@ -7,7 +7,6 @@
     * [顶帖奖励（目前已关闭）](docs/server/mechanisms/bbstoper.md)
     * [服务器等级](docs/server/mechanisms/level.md)
     * [贡献度](docs/server/mechanisms/contributions.md)
-    * [处罚机制](docs/server/mechanisms/punishments.md)
     * [游戏翻译器](docs/server/mechanisms/translator.md)
   - 通用
     * [经济](docs/server/economy.md)
