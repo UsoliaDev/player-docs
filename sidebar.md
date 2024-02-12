@@ -21,7 +21,6 @@
     * [矿物分布](docs/server/cl02/mineral-distributions.md)
     * [自然灾害（未完成）](docs/server/cl02/disasters.md)
     * [箱子商店](docs/server/cl02/chest-store.md)
-    * [领地与联邦](docs/server/cl02/lands-cl.md)
 	* [查找史莱姆区块](docs/server/cl02/slimechunk-view.md)
     * [玩家交易](docs/server/cl02/trade.md)
   - Planet
@@ -29,7 +28,6 @@
     * [大陆桥](docs/server/pl01/continent-bridge.md)
     * [轨交建设标准](docs/server/pl01/railway-standards.md)
     * [铁路加速](docs/server/pl01/speedmine.md)
-    * [领地与联邦](docs/server/pl01/lands-pl.md)
 	* [查找史莱姆区块](docs/server/pl01/slimechunk-view.md)
     * [玩家交易](docs/server/pl01/trade.md)
   - 其他
