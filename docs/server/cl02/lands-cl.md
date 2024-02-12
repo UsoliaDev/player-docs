@@ -51,13 +51,13 @@
 
 ### 联邦 (Nation)
 
-由各个领地组成的大型玩家聚落，可以<font color=#ffc107>发动/参与战争</font>
+由各个领地组成的大型玩家聚落，可以发动/参与战争
 
 费用相关见 四.附录 - 附录2
 战争相关见 三.战争
 
  1. 创建
-选择一个领地(/`lands edit`)作为首都(Capital)，输入指令`/nations create <名称>`即可。<font color=#ffc107>（首都的等级必须至少为“城镇”）</font>
+选择一个领地(/`lands edit`)作为首都(Capital)，输入指令`/nations create <名称>`即可（首都的等级必须至少为“城镇”）。
 
  2. 管理
 输入指令`/nations`打开联邦管理菜单。
