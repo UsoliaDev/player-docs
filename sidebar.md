@@ -4,7 +4,6 @@
   * [服务器一览](docs/server/servers.md)
   - 服务器机制
     * [点歌系统](docs/server/mechanisms/music.md)
-    * [顶帖奖励（目前已关闭）](docs/server/mechanisms/bbstoper.md)
     * [服务器等级](docs/server/mechanisms/level.md)
     * [贡献度](docs/server/mechanisms/contributions.md)
     * [游戏翻译器](docs/server/mechanisms/translator.md)
@@ -17,9 +16,7 @@
     * [关联服务器与论坛帐号](docs/server/link.md)
   - Creative Land II
     * [概览](docs/server/cl02/introduction.md)
-    * [生物群系（未完成）](docs/server/cl02/biomes.md)
     * [矿物分布](docs/server/cl02/mineral-distributions.md)
-    * [自然灾害（未完成）](docs/server/cl02/disasters.md)
     * [箱子商店](docs/server/cl02/chest-store.md)
 	* [查找史莱姆区块](docs/server/cl02/slimechunk-view.md)
     * [玩家交易](docs/server/cl02/trade.md)
