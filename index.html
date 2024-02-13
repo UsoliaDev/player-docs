@@ -37,11 +37,15 @@
 		   },
       requestHeaders: {
         'cache-control': 'max-age=0',
-           }, 
+           },
+      plugins: [
+        EditOnGithubPlugin.create("https://github.com/UsoliaDev/player-docs/tree/main/docs")
+       ]
       }
   </script> 
   <script src="//assets-docs.usolia.net/docs.usolia.net/libs/plugins/search.min.js"></script>
   <script src="//assets-docs.usolia.net/docs.usolia.net/libs/plugins/emoji.min.js"></script>
   <script src="//assets-docs.usolia.net/docs.usolia.net/libs/plugins/zoom-image.min.js"></script>
+  <script src="//assets-docs.usolia.net/docs.usolia.net/libs/plugins/edit-on-github.js"></script>
 </body>
 </html>
