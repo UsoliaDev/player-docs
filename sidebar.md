@@ -11,7 +11,7 @@
     * [经济](docs/server/economy.md)
     * [会员等级](docs/server/rank.md)
     * [重置密码](docs/server/resetpass.md)
-    * [Discord服务器](docs/server/discord.md)
+    * [Discord 服务器](docs/server/discord.md)
     * [聊天频道](docs/server/channel.md)
     * [关联服务器与论坛帐号](docs/server/link.md)
   - Creative Land II
