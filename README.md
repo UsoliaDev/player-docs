@@ -23,9 +23,7 @@ Discord: [邀请链接](https://discord.gg/hDNMZv5)
 
 中国大陆加速地址（无稳定性保证）
 
-?> de-centre-1.mc.usolia.net
-
-?> de-centre-2.mc.usolia.net
+?> ru-mow-1.mc.usolia.net
 
 ### 其他
 
