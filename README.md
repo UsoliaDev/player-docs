@@ -25,6 +25,8 @@ Discord: [邀请链接](https://discord.gg/hDNMZv5)
 
 ?> de-centre-1.mc.usolia.net
 
+?> ru-mow-1.mc.usolia.net
+
 ### 其他
 
 ?> 支持 1.17.x-1.20.x 版本游戏客户端进入服务器；推荐使用服务器所支持的最新版本。
