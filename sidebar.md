@@ -18,14 +18,14 @@
     * [概览](docs/server/cl02/introduction.md)
     * [矿物分布](docs/server/cl02/mineral-distributions.md)
     * [箱子商店](docs/server/cl02/chest-store.md)
-	  * [查找史莱姆区块](docs/server/cl02/slimechunk-view.md)
+    * [查找史莱姆区块](docs/server/cl02/slimechunk-view.md)
     * [玩家交易](docs/server/cl02/trade.md)
   - Planet
     * [季节更替](docs/server/pl01/seasons.md)
     * [大陆桥](docs/server/pl01/continent-bridge.md)
     * [轨交建设标准](docs/server/pl01/railway-standards.md)
     * [铁路加速](docs/server/pl01/speedmine.md)
-	  * [查找史莱姆区块](docs/server/pl01/slimechunk-view.md)
+    * [查找史莱姆区块](docs/server/pl01/slimechunk-view.md)
     * [玩家交易](docs/server/pl01/trade.md)
   - 其他
     * [网络故障排除](docs/server/network-troubleshoot.md)
