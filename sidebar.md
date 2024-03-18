@@ -3,7 +3,6 @@
   * [新手指南](docs/server/guides-new.md)
   * [服务器一览](docs/server/servers.md)
   - 服务器机制
-    * [点歌系统](docs/server/mechanisms/music.md)
     * [服务器等级](docs/server/mechanisms/level.md)
     * [贡献度](docs/server/mechanisms/contributions.md)
     * [游戏翻译器](docs/server/mechanisms/translator.md)
