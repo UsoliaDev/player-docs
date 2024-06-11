@@ -1,6 +1,6 @@
 # 玩家交易
 
->该功能同样存在于 Creative Land II 服务器，参见[玩家交易（Creative Land II）](https://docs.usolia.net/#/docs/server/cl02/trade)
+>该功能同样存在于 Creative Land II 服务器，参见[玩家交易（Creative Land II）](https://docs.usolia.net/#/docs/server/cl02/trade-cl02)
 
 *便捷的即时交易方式*
 

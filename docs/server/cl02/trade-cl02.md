@@ -1,6 +1,6 @@
 # 玩家交易
 
->该功能同样存在于 Planet 服务器，参见[玩家交易（Planet）](https://docs.usolia.net/#/docs/server/pl01/trade)
+>该功能同样存在于 Planet 服务器，参见[玩家交易（Planet）](https://docs.usolia.net/#/docs/server/pl01/trade-pl01)
 
 *便捷的即时交易方式*
 
