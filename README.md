@@ -6,11 +6,11 @@
 
 运营时间: 2020.2 至今
 
-?> 游玩 Usolia Network 至少需要 Java 17；如果使用 1.20.5 或更高版本客户端进入服务器，则至少需要 Java 21。
-
 官方 QQ 群:`641358246`
 
 Discord: [邀请链接](https://discord.gg/hDNMZv5)
+
+?> 游玩 Usolia Network 至少需要 Java 17；如果使用 1.20.5 或更高版本客户端进入服务器，则至少需要 Java 21。
 
 ### 服务器地址
 
