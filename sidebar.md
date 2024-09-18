@@ -20,6 +20,7 @@
     * [查找史莱姆区块](docs/server/cl02/slimechunk-view-cl02.md)
     * [玩家交易](docs/server/cl02/trade-cl02.md)
   - Planet
+    * [世界](docs/server/pl01/worlds-pl01.md)
     * [季节更替](docs/server/pl01/seasons.md)
     * [大陆桥](docs/server/pl01/continent-bridge.md)
     * [轨交建设标准](docs/server/pl01/railway-standards.md)
