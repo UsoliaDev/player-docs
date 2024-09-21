@@ -1,4 +1,3 @@
-* [关于我们](docs/server/about.md)
 - 服务器
   * [新手指南](docs/server/guides-new.md)
   * [服务器一览](docs/server/servers.md)
@@ -26,5 +25,7 @@
     * [铁路加速](docs/server/pl01/speedmine.md)
     * [查找史莱姆区块](docs/server/pl01/slimechunk-view-pl01.md)
     * [玩家交易](docs/server/pl01/trade-pl01.md)
-  - 其他
-    * [网络故障排除](docs/server/network-troubleshoot.md)
+- 其他
+  * [网络故障排除](docs/server/network-troubleshoot.md)
+* [关于我们](docs/server/about.md)
+ 
