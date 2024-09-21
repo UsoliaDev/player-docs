@@ -28,7 +28,3 @@
     * [玩家交易](docs/server/pl01/trade-pl01.md)
   - 其他
     * [网络故障排除](docs/server/network-troubleshoot.md)
-  - Creative Land I (归档)
-    * [世界架构](docs/server/archived/cl01/cl_world_structure.md)
-    * [附魔系统](docs/server/archived/cl01/enchant.md)
-    * [飞行能量模式](docs/server/archived/cl01/flyc.md)  
