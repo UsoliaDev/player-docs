@@ -1,4 +1,3 @@
-* [关于我们](docs/server/about.md)
 - 服务器
   * [新手指南](docs/server/guides-new.md)
   * [服务器一览](docs/server/servers.md)
@@ -27,9 +26,7 @@
     * [铁路加速](docs/server/pl01/speedmine.md)
     * [查找史莱姆区块](docs/server/pl01/slimechunk-view-pl01.md)
     * [玩家交易](docs/server/pl01/trade-pl01.md)
-  - 其他
-    * [网络故障排除](docs/server/network-troubleshoot.md)
-  - Creative Land I (归档)
-    * [世界架构](docs/server/archived/cl01/cl_world_structure.md)
-    * [附魔系统](docs/server/archived/cl01/enchant.md)
-    * [飞行能量模式](docs/server/archived/cl01/flyc.md)  
+- 其他
+  * [网络故障排除](docs/server/network-troubleshoot.md)
+* [关于我们](docs/server/about.md)
+ 
