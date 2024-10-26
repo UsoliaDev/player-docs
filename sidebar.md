@@ -22,6 +22,7 @@
     * [世界](docs/server/pl01/worlds-pl01.md)
     * [季节更替](docs/server/pl01/seasons.md)
     * [大陆桥](docs/server/pl01/continent-bridge.md)
+    * [领地系统](docs/server/pl01/lands-pl.md)
     * [轨交建设标准](docs/server/pl01/railway-standards.md)
     * [铁路加速](docs/server/pl01/speedmine.md)
     * [查找史莱姆区块](docs/server/pl01/slimechunk-view-pl01.md)
