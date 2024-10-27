@@ -17,16 +17,17 @@
     * [箱子商店](docs/server/cl02/chest-store.md)
     * [查找史莱姆区块](docs/server/cl02/slimechunk-view-cl02.md)
     * [玩家交易](docs/server/cl02/trade-cl02.md)
+    * [领地系统](docs/server/cl02/lands-cl.md)
   - Planet
     * [世界](docs/server/pl01/worlds-pl01.md)
     * [季节更替](docs/server/pl01/seasons.md)
     * [大陆桥](docs/server/pl01/continent-bridge.md)
-    * [领地系统](docs/server/pl01/lands-pl.md)
     * [轨交建设标准](docs/server/pl01/railway-standards.md)
     * [铁路加速](docs/server/pl01/speedmine.md)
     * [查找史莱姆区块](docs/server/pl01/slimechunk-view-pl01.md)
     * [玩家交易](docs/server/pl01/trade-pl01.md)
+    * [领地系统](docs/server/pl01/lands-pl.md)    
 - 其他
   * [网络故障排除](docs/server/network-troubleshoot.md)
-* [关于我们](docs/server/about.md)
+* [关于 Usolia](docs/server/about.md)
  

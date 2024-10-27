@@ -1,5 +1,7 @@
 # 领地系统
 
+>该功能同样存在于 Creative Land II 服务器，参见[领地系统（Creative Land II）](https://docs.usolia.net/#/docs/server/cl02/lands-cl) 
+
 使用领地来保护你的建筑。熊孩子打咩
 
 *本文最后更新于 2024.10.26*
