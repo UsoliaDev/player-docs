@@ -1,16 +1,13 @@
-- 服务器
+- Usolia
   * [新手指南](docs/server/guides-new.md)
   * [服务器一览](docs/server/servers.md)
-  - 服务器机制
-    * [服务器等级](docs/server/mechanisms/level.md)
-    * [游戏翻译器](docs/server/mechanisms/translator.md)
   - 通用
+    * [等级](docs/server/level.md)
     * [经济](docs/server/economy.md)
     * [会员等级](docs/server/rank.md)
-    * [重置密码](docs/server/resetpass.md)
     * [Discord 服务器](docs/server/discord.md)
     * [聊天频道](docs/server/channel.md)
-    * [关联服务器与论坛帐号](docs/server/link.md)
+    * [游戏翻译器](docs/server/translator.md)    
   - Creative Land II
     * [概览](docs/server/cl02/introduction.md)
     * [矿物分布](docs/server/cl02/mineral-distributions.md)
@@ -27,7 +24,8 @@
     * [查找史莱姆区块](docs/server/pl01/slimechunk-view-pl01.md)
     * [玩家交易](docs/server/pl01/trade-pl01.md)
     * [领地系统](docs/server/pl01/lands-pl.md)    
-- 其他
-  * [网络故障排除](docs/server/network-troubleshoot.md)
+- 指南
+  * [重置密码](docs/guides/reset-passwd.md)
+  * [网络故障排除](docs/guides/network-troubleshoot.md)
 * [关于 Usolia](docs/server/about.md)
  
