@@ -16,7 +16,7 @@
 | :-: | :-: | :-: | :-: |  :-: |   :-: |   :-: |
 |  Lobby   |  l01a   |  1.21.1  |   大厅   |  Point | 长期开放  | | 
 |  Creative Land II  |  cl02 | 1.19.3   |  生存 | Clancash |  长期开放   |  | 
-|  Planet   |  pl01   | 1.21.1  |   生存  | Plancash | 长期开放  |  | 
+|  Planet   |  pl01   | 1.21.4  |   生存  | Plancash | 长期开放  |  | 
 
 
 ### 特殊服务器
