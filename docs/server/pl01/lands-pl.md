@@ -192,4 +192,4 @@
 
 ### 配额
 
-根据你的服务器等级和会员等级，你可以获得的相关配额（例如：可以拥有的最大领地数量）会有所不同。同时具有两者时以更高值为准。请参考 [服务器等级 - 领地增益](https://docs.usolia.net/#/docs/server/mechanisms/level?id=%e9%a2%86%e5%9c%b0%e5%a2%9e%e7%9b%8a) 与 [会员等级 - 权限表](https://docs.usolia.net/#/docs/server/rank?id=%e6%9d%83%e9%99%90%e8%a1%a8)
+根据你的服务器等级和会员等级，你可以获得的相关配额（例如：可以拥有的最大领地数量）会有所不同。同时具有两者时以更高值为准。请参考 [服务器等级 - 领地增益](https://docs.usolia.net/#/docs/server/level?id=%e9%a2%86%e5%9c%b0%e5%a2%9e%e7%9b%8a) 与 [会员等级 - 权限表](https://docs.usolia.net/#/docs/server/rank?id=%e6%9d%83%e9%99%90%e8%a1%a8)
