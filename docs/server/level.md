@@ -11,7 +11,7 @@
 
 ![](https://assets-docs.usolia.net/docs.usolia.net/images/mechanisms/levels.png)
 
-?> 部分交易类型不适用于上图所写货币增益，例如部分一次性任务。
+?> 上述货币增益不适用于部分交易类型，例如仅可完成一次的任务。
 
 
 ## 如何升级
