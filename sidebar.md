@@ -7,7 +7,9 @@
     * [会员等级](docs/server/rank.md)
     * [Discord 服务器](docs/server/discord.md)
     * [聊天频道](docs/server/channel.md)
-    * [游戏翻译器](docs/server/translator.md)    
+    * [游戏翻译器](docs/server/translator.md)
+  - Cozzy Journey
+    * [概览](docs/server/m01b/introduction.md)
   - Creative Land II
     * [概览](docs/server/cl02/introduction.md)
     * [矿物分布](docs/server/cl02/mineral-distributions.md)
