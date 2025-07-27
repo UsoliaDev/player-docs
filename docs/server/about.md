@@ -1,12 +1,12 @@
 # 关于我们
 
-*本文最后更新于 2024.1.25*
+*本文最后更新于 2025.7.27*
 
 ![](https://assets-docs.usolia.net/docs.usolia.net/images/general/usolia-banner.png)
 
 Hi，我们是 Usolia Network（前身为 Coldplay Network）
 
-自 2020.2，Java 版服务器首次开启之时起，我们已有累计 1800+ 玩家注册量，且在近4年的运营中无中断记录。
+自 2020 年 2 月 — Usolia Java 版服务器开启之时起，我们已有累计 2200+ 玩家注册量，且在逾 5 年的运营中无中断记录。
 
 ----------
 
