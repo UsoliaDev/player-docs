@@ -22,11 +22,11 @@ Cozzy Journey 服务器
 
 中国大陆加速线路（无稳定性保证）
 
-?> de-centre-1.mc.usolia.net
+?> mc.usolia.cn
 
 中国大陆加速线路（Cozzy Journey 服务器，无稳定性保证）
 
-?> de-centre-1.jr.mc.usolia.net
+?> jr.mc.usolia.cn
 
 ### 其他
 
