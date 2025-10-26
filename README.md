@@ -20,11 +20,21 @@ Cozzy Journey 服务器
 
 #### 特殊地址
 
-中国大陆加速线路（无稳定性保证）
+##### 中国大陆加速线路（无稳定性保证）
+
+自动选择
 
 ?> mc.usolia.cn
 
-中国大陆加速线路（Cozzy Journey 服务器，无稳定性保证）
+中国电信优化
+
+?> ct.dual.usolia.cn
+
+中国联通优化
+
+?> cu.dual.usolia.cn
+
+##### Cozzy Journey 服务器 中国大陆加速线路（无稳定性保证）
 
 ?> jr.mc.usolia.cn
 
