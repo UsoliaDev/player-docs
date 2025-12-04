@@ -1,6 +1,6 @@
 # 服务器一览
 
-*本文最后更新于 2025.8.21*
+*本文最后更新于 2025.12.5*
 
 这里列出了 Usolia Network 所有公共子服务器，以及部分非公共子服务器。
 
@@ -15,14 +15,14 @@
 |        名称        | 服务器代号 | 简称  |   版本   | 类型/玩法 |   主货币    |  状态  |  备注   |
 | :--------------: | :---: | :-: | :----: | :---: | :------: | :--: | :---: |
 |      Lobby       | l01a  |  -  | 1.21.4 |  大厅   |  Point   | 长期开放 |       |
-| Creative Land II | cl02  | CL  | 1.21.4 |  生存   | Clancash | 长期开放 | 服务器概览 |
+| Creative Land II | cl02  | CL  | 1.21.4 |  生存   | Clancash | 长期开放 | [服务器概览](https://docs.usolia.net/#/docs/server/cl02/introduction) |
 |      Planet      | pl01  | PL  | 1.21.8 |  生存   | Plancash | 长期开放 |       |
 
 ### Mod 服务器
 
 |      名称       | 服务器代号 |      简称      |   版本   | 类型/玩法 |   主货币   | 状态  |       备注       |
 | :-----------: | :---: | :----------: | :----: | :---: | :-----: | :-: | :------------: |
-| Cozzy Journey | m01b  | Journey / JR | 1.20.1 |  生存   | Journal | 试运行 | 服务器概览 \| 客户端下载 |
+| Cozzy Journey | m01b  | Journey / JR | 1.20.1 |  生存   | Journal | 长期开放 | [服务器概览](https://docs.usolia.net/#/docs/server/m01b/introduction) \| [客户端下载](https://github.com/UsoliaDev/Journey-Client/releases) |
 
 ### 特殊服务器
 
