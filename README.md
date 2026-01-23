@@ -30,11 +30,15 @@ Cozzy Journey 服务器
 
 中国电信优化
 
-?> ct.dual.usolia.cn
+?> ct.mc.usolia.cn
 
 中国联通优化
 
-?> cu.dual.usolia.cn
+?> cu.mc.usolia.cn
+
+中国移动优化
+
+?> cm.mc.usolia.cn
 
 ##### Cozzy Journey 服务器 中国大陆加速线路（无稳定性保证）
 
