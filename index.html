@@ -6,10 +6,45 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="./assets/css/vue.css">
-  <link rel="stylesheet" href="./assets/css/dark.css" media="(prefers-color-scheme: dark)">
+  <link rel="stylesheet" href="./assets/css/vue.css" id="theme-light" media="all">
+  <link rel="stylesheet" href="./assets/css/dark.css" id="theme-dark" media="not all">
   <link rel="stylesheet" href="./assets/css/common.css">
   <link rel="icon" type="image/x-icon" href="docs-favicon.png"/>
+  <style>
+    .theme-toggle {
+      position: fixed;
+      bottom: 12px;
+      right: 12px;
+      z-index: 99;
+      background: #000;
+      color: #fff;
+      border: 1px solid #aaa;
+      border-radius: 50%;
+      width: 32px;
+      height: 32px;
+      font-size: 16px;
+      line-height: 32px;
+      text-align: center;
+      cursor: pointer;
+      padding: 0;
+      opacity: 0.7;
+      transition: opacity 0.2s;
+    }
+    .theme-toggle:hover { opacity: 1; }
+    [data-theme="dark"] .theme-toggle { background: #fff; color: #000; border-color: #555; }
+  </style>
+  <script>
+    (function() {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var dark = saved ? saved === 'dark' : prefersDark;
+      if (dark) {
+        document.getElementById('theme-dark').media = 'all';
+        document.getElementById('theme-light').media = 'not all';
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
 </head>
 <body>
   <div id="app">Loading...</div>
@@ -48,5 +83,24 @@
   </script> 
   <script src="./plugins/search.min.js"></script>
   <script src="./plugins/zoom-image.min.js"></script>
+  <button class="theme-toggle" id="theme-toggle" title="切换主题"></button>
+  <script>
+    (function() {
+      var light = document.getElementById('theme-light');
+      var dark = document.getElementById('theme-dark');
+      var btn = document.getElementById('theme-toggle');
+      function isDark() { return dark.media === 'all'; }
+      function update() { btn.textContent = isDark() ? '☀︎' : '🌙︎'; }
+      update();
+      btn.addEventListener('click', function() {
+        var toDark = !isDark();
+        dark.media = toDark ? 'all' : 'not all';
+        light.media = toDark ? 'not all' : 'all';
+        localStorage.setItem('theme', toDark ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', toDark ? 'dark' : 'light');
+        update();
+      });
+    })();
+  </script>
 </body>
 </html>

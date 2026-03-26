@@ -59,3 +59,11 @@
 .nw-inf-gold {
     color: #f9a825;
 }
+
+/* Normalize spacing between themes */
+.markdown-section figure,
+.markdown-section p,
+.markdown-section ol,
+.markdown-section ul {
+    margin: 1.2em 0;
+}
