@@ -6,6 +6,8 @@
 
 运营时间：2020.2 至今
 
+地理位置：FR - Strasbourg
+
 QQ 交流群：`641358246`
 
 Discord 服务器：[点击加入](https://discord.gg/hDNMZv5)
