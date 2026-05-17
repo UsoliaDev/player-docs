@@ -14,7 +14,7 @@
 | :--------------: | :---: | :-: | :----: | :---: | :------: | :--: | :---: |
 |      Lobby       | l01a  |  -  | 1.21.4 |  大厅   |  Point   | 长期开放 |       |
 | Creative Land II | cl02  | CL  | 1.21.11 |  生存   | Clancash | 长期开放 | [服务器概览](https://docs.usolia.net/#/docs/server/cl02/introduction) |
-|      Planet      | pl01  | PL  | 1.21.11 |  生存   | Plancash | 长期开放 |       |
+|      Planet      | pl01  | PL  | 26.1.2 |  生存   | Plancash | 长期开放 |       |
 
 ### Mod 服务器
 
