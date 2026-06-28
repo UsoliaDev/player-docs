@@ -6,8 +6,6 @@
 
 ---
 
-
-
 ## 月度成本
 
 | 名称         | 类型       | 用途                                                      | 供应商                | 产品        | 价格（2026.2~2026.4） | 价格（2026.5~） | 推广链接                                                          |
@@ -20,7 +18,6 @@
 | 短期备份     | NAS        | 存储短期（15天）的服务器高频备份                          | Hetzner Online        | BX11        | €10.9                | 无变化          | 无                                                                |
 | 长期备份     | 对象存储   | 存储不同时间点（每月3个）的服务器备份并保存多年           | Amazon Web Services   | S3 Glacier  | ~US$11                | 无变化          | 无                                                                |
 
-
 ## 年度成本
 
 | 名称       | 类型 | 用途         | 供应商     | 产品                 | 价格     | 推广链接 |
@@ -30,6 +27,9 @@
 | usolia.org | 域名 | 内部服务域名 | Cloudflare | Cloudflare Registrar | US$11.20 | 无       |
 | usolia.dev | 域名 | 内部服务域名 | OVHcloud   | OVHcloud Web Cloud   | €15.49  | 无       |
 | uso.li     | 域名 | 短域名       | OVHcloud   | OVHcloud Web Cloud   | €6.49   | 无       |
+
+
+
 
 
 内存与存储成本在近一年大幅上涨。受此影响，Usolia 使用的供应商也在不断涨价
