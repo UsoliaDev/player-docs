@@ -1,6 +1,8 @@
 - Usolia
+
   * [新手指南](docs/server/guides-new.md)
   * [服务器一览](docs/server/servers.md)
+
   - 通用
     * [等级](docs/server/level.md)
     * [经济](docs/server/economy.md)
@@ -25,9 +27,11 @@
     * [铁路加速](docs/server/pl01/speedmine.md)
     * [查找史莱姆区块](docs/server/pl01/slimechunk-view-pl01.md)
     * [玩家交易](docs/server/pl01/trade-pl01.md)
-    * [领地系统](docs/server/pl01/lands-pl.md)    
+    * [领地系统](docs/server/pl01/lands-pl.md)
 - 指南
+
   * [重置密码](docs/guides/reset-passwd.md)
   * [网络故障排除](docs/guides/network-troubleshoot.md)
+
 * [关于 Usolia](docs/server/about.md)
- 
+* [运营成本](docs/server/costs.md)
