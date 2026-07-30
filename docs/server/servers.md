@@ -19,7 +19,7 @@
 
 |     名称     | 服务器代号 |     简称     |  版本  | 类型/玩法 | 主货币 |   状态   |                                                                 备注                                                                 |
 | :-----------: | :--------: | :----------: | :----: | :-------: | :-----: | :------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| Cozzy Journey |    m01b    | Journey / JR | 1.20.1 |   生存   | Journal | 长期开放 | [服务器概览](https://docs.usolia.net/#/docs/server/m01b/introduction) \| [客户端下载](https://github.com/UsoliaDev/Journey-Client/releases) |
+| Cozzy Journey |    m01b    | Journey / JR | 1.20.1 |   生存   | Journal | 暂时关闭 | [服务器概览](https://docs.usolia.net/#/docs/server/m01b/introduction) \| [客户端下载](https://github.com/UsoliaDev/Journey-Client/releases) |
 
 ### 特殊服务器
 
