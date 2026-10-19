@@ -12,7 +12,7 @@
 
 |       名称       | 服务器代号 | 简称 |  版本  | 类型/玩法 |  主货币  |   状态   |                                备注                                |
 | :--------------: | :--------: | :--: | :-----: | :-------: | :------: | :------: | :----------------------------------------------------------------: |
-| Creative Land II |    cl02    |  CL  | 1.21.11 |   生存   | Clancash | 长期开放 | [服务器概览](https://docs.usolia.net/#/docs/server/cl02/introduction) |
+| Creative Land II |    cl02    |  CL  | 26.3 |   生存   | Clancash | 长期开放 | [服务器概览](https://docs.usolia.net/#/docs/server/cl02/introduction) |
 |      Planet      |    pl01    |  PL  | 26.3 |   生存   | Plancash | 长期开放 |                                                                    |
 
 ### Mod 服务器
